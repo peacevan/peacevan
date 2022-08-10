@@ -5,9 +5,6 @@
 Currently I work with WEB system development with the php language
  
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=peacevan)
-<br/>
-
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/peacevan">
