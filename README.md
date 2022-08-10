@@ -7,7 +7,7 @@ Currently I work with WEB system development with the php language
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=peacevan)
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacevan&theme=dracula&hide_langs_below=1" />
 </a>
 
 **Aplicações e Dados**
