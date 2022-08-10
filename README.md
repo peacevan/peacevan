@@ -10,6 +10,15 @@ Currently I work with WEB system development with the php language
 <a href="https://github.com/Gurupreet" STYLE="MARGIN-TOP: -98PX;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacevan&theme=dracula&hide_langs_below=1" />
 </a>
+## **GitHub Estatísticas**
+
+<a href="https://github.com/peacevan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacevan&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/peacevan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=peacevan&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 **Aplicações e Dados**
 
