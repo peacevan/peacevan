@@ -6,12 +6,11 @@ Currently I work with WEB system development with the php language
 
 #### 🔗 Me encontre
 
-<a href="https://twitter.com/levxyca"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-<a href="https://dev.to/levxyca"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-<a href="https://www.youtube.com/channel/UC0oAypdScDI9WiwvebIqiOQ"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
-<a href="https://www.twitch.tv/levxyca"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/leticiacaroline/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://www.polywork.com/levxyca"><img src="https://img.shields.io/badge/Polywork-0077B5?style=for-the-badge&logo=polywork&logoColor=white"></img></a>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@peacevan)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@peacevan) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ivan-amado-peace/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ivanamadocardoso/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/peacevan)
 
 #### ✍🏻 Blog posts recentes
 
@@ -70,8 +69,4 @@ Currently I work with WEB system development with the php language
 
 <br/>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@peacevan)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@peacevan) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ivan-amado-peace/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ivanamadocardoso/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/peacevan)
+
