@@ -15,11 +15,15 @@ Currently I work with WEB system development with the php language
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
-- [Provisionando uma Instância EC2+VPC+RDS(Mysql)com Terraform](https://dev.to/feministech/manipulando-listas-e-mapas-no-flutter-81h)
-- [Criando pipeline simples CI/CD com GithubAction-Laravel-AWS (EC2)](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
-- [Provisionando um Cluster Kubernetes AWS(EKS) utilizando o Terraform](https://dev.to/feministech/pra-nao-esquecer-mais-stateless-x-stateful-no-flutter-58eg)
+- [Provisionando uma Instância EC2+VPC+RDS(Mysql)com Terraform](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
+- [Criando pipeline simples CI/CD com GithubAction-Laravel-AWS (EC2)](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
+- [Provisionando um Cluster Kubernetes AWS(EKS) utilizando o Terraform](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
+- [Instalado SonarQuber em uma instancia EC2-Linux](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
 <!-- BLOG:END -->
  
+#### ✍🏻 PortFólio
+- [Portfólio](#)
+
 
 ## **GitHub Estatísticas**
 
