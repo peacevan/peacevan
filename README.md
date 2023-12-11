@@ -15,6 +15,8 @@ Currently I work with WEB system development with the php language
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+
+- [Inplementando uma aplicação com Phalcon e Angular][(https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522](https://medium.com/@peacevan/criando-api-com-phalcon-83779d21141c))
 - [Provisionando uma Instância EC2+VPC+RDS(Mysql)com Terraform](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
 - [Criando pipeline simples CI/CD com GithubAction-Laravel-AWS (EC2)](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
 - [Provisionando um Cluster Kubernetes AWS(EKS) utilizando o Terraform](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
