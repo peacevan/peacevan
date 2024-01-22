@@ -21,6 +21,7 @@ Currently I work with WEB system development with the php language
 - [Criando pipeline simples CI/CD com GithubAction-Laravel-AWS (EC2)](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
 - [Provisionando um Cluster Kubernetes AWS(EKS) utilizando o Terraform](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
 - [Instalado SonarQuber em uma instancia EC2-Linux](https://medium.com/@peacevan/instalando-o-sonarquber-em-uma-inst%C3%A2ncia-ec2-51c79ef3d522)
+- [Pipeline CI/CD com Terraform|AWS|Jenkins|SonarQuber|Gitlab|Golang](https://medium.com/@peacevan/pipeline-ci-cd-com-terraform-aws-jenkins-sonarquber-gitlab-golang-c9f1b79ae379)
 <!-- BLOG:END -->
  
 #### ✍🏻 PortFólio
