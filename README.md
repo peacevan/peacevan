@@ -30,6 +30,13 @@ Currently I work with WEB system development with the php language
 
 ## **GitHub Estatísticas**
 
+  ### Stats
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaylanesquivel&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaylanesquivel&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaylanesquivel&theme=dracula">
+</div>
+
 <a href="https://github.com/peacevan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacevan&theme=dracula&hide_langs_below=1" />
 </a>
