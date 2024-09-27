@@ -2,7 +2,7 @@
 ">
 
 ### Hi 👋 I'm Ivan Amado Cardoso
-Currently I work with WEB system development with the php language
+Currently I work with WEB system development with the Jsva language
 
 #### 🔗 Me encontre
 
